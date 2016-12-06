@@ -1,7 +1,7 @@
 {
   "name": "phonetic",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "phonetic.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
